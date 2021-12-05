@@ -1,0 +1,24 @@
+.home-link {
+	position: absolute;
+	max-width: 60px;
+}
+
+.home-link.embodied {
+	top:  1vh;
+	left: 2vw;
+}
+
+/*.home-link.community {
+	top:  35%;
+	left: 11%;
+}
+
+.home-link.outside {
+	top:  15%;
+	left: 78%;
+}
+
+.home-link.dance {
+	top:  68%;
+	left: 82%;
+}*/

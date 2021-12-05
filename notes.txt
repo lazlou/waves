@@ -1,0 +1,2 @@
+to check how the page loads online: 
+type "http-server" into directory
