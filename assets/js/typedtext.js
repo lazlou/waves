@@ -1,7 +1,7 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["embodied"];
+const textArray = ["time, energy, is so precious..."];
 const typingDelay = 200;
 const newTextDelay = 2000; // Delay between current and next text
 let textArrayIndex = 0;
