@@ -1,5 +1,5 @@
 /* MarqueeTitle v4.0 | MIT License | git.io/vQZbs */
-const marquee = function(c=undefined, m=300, a="-") {
+const marquee = function(c=undefined, m=500, a="-") {
   if (c === undefined ){
     c = document.title;
   }
